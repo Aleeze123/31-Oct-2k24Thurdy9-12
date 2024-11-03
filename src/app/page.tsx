@@ -11,7 +11,7 @@ function Home() {
           <h1 className="text-[44px] font-bold">Welcome To Our Website</h1>
           <p className="text-[32px] leading-[38.73px] mb-4 font-inter text-gray-700">
   Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-  Lorem Ipsum has been the industry's standard.
+  Lorem Ipsum has been the industry&apos;s standard.
 </p>
 
           <button className="bg-black text-white w-[237px] h-[66px] mt-4 text-[28px]">Contact Us</button>
